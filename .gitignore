@@ -1,3 +1,5 @@
 /test/.*
 /.idea/vcs.xml
 /test/
+/go.mod
+/go.sum
